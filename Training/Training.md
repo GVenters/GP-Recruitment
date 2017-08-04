@@ -10,6 +10,7 @@ There are 18 GP training programmes across Scotland with approx 1000 trainees in
 
 ## Continuing professional development ##
 
+http://www.scotlanddeanery.nhs.scot/your-development/ 
 
 
 ## Find out more ##
