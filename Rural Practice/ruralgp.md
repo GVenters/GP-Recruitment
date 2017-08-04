@@ -18,3 +18,8 @@ It's a role where you'll be visible and relied on.
 ## Training ##
 
 
+## Have a look for yourself ##
+
+We've got some videos from GPs working in different rural settings across Scotland....
+
+
