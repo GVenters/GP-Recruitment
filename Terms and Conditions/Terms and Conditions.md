@@ -25,8 +25,9 @@ We welcome and encourage other websites to link to this website.
 
 You must contact us for permission if you want to either:
 
-    * charge your website’s users to click on a link to any resource provided by the service (e.g. a link to a web page).
-    * say your website is associated with or endorsed by the service, the service operators or another NHS organisation or
+    - charge your website’s users to click on a link to any resource provided by the service (e.g. a link to a web page).
+    
+    - say your website is associated with or endorsed by the service, the service operators or another NHS organisation or
     any Scottish government department or agency.
 
 
