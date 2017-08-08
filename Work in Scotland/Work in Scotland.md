@@ -1,3 +1,6 @@
+
+Scotland is a great country to make a career in medicine with opportunities for a varied and fulfilling working life. You can work in one of the most advanced health services in the world, in a country with a medical research record second to none. There are opportunities in all aspects of medicine in all types of setting ranging from ultra-specialised, cutting-edge practice to working at the heart of your community in some of the most beautiful and remote countryside in Europe.
+
 ## Country ##
 
 
