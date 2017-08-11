@@ -1,6 +1,6 @@
 # Moving to Scotland #
 
-You'll find up to date details on what's required on the Talent Scotland website at : http://www.talentscotland.com/work/working but here are the main things to be aware of if you are applying for a job with NHSScotland from overseas. (as at 04/2016)
+You'll find up to date details on what's required on the Talent Scotland website at : http://www.talentscotland.com/work/working but here are the main things to be aware of if you are applying for a job with NHSScotland from overseas. (as at 08/2017)
 
 ## Check the person specification ##
 You will find a 'person specification' for all the Fellowships. This sets out the requirements you will need to have to be considered for the role. Make sure you have the relevant experience and qualifications before applying for a job. Only applicants who demonstrate clearly in their application form that they meet the essential criteria for the post will be considered for interview. For very popular posts, employers may only consider those applicants who also meet the desired criteria outlined on the person specification.
