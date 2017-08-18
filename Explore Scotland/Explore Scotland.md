@@ -11,7 +11,7 @@ If you like golf, we have some of the best courses in the world. We've had sever
 
 If you like outdoor pursuits, you're never far from hills, mountains, lochs and sea wherever you are in Scotland. Kayaking, hill-walking, climbing, mountain-biking and sailing are all as popular as they are accessible.
 
-# Food and drink
+## Food and drink ##
 And after all the hill-walking and culture, we've some of best food and drink in the world too. Scottish seafood, meat and produce are all world-class, though porridge and haggis are an acquired tast for some. We do something really quite special with our barley too.  
  
 ## Community and History ##
@@ -20,7 +20,7 @@ Scotland has a rich lengthy and legendary history. We've been welcoming, and tra
 and continue to be a cosmopolitan and connected place to be, with communities of Scots who've come from all points
 of the compass. NHSScotland is a product of our community spirit and we put patients at the centre of what we do. 
  
-## Try befor you buy - Visit Scotland ##
+## Try before you buy - Visit Scotland ##
 If you're still not convinved, why not come to Scotland to see for yourself. Visit Scotland and Scotland.com have more information on getting here for a look round. 
 
 Visits to practices which have vacancies can be arranged to get an idea of the Scotland as a place to live.
